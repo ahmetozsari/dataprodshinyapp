@@ -54,5 +54,5 @@ The ui.R and server.R are the code for the shiny application: https://ahmetozsar
 
 Application Details:
 * The shiny application is deployed on ShinyApps.io server at: https://ahmetozsari.shinyapps.io/dataprodshinyapp/
-* The RStudio presentation slides is published to RPubs at: http://rpubs.com/ahmetozsari
+* The RStudio presentation slides is published to RPubs at: https://rpubs.com/ahmetozsari/week4project/
 * Git repository at: https://github.com/ahmetozsari/dataprodshinyapp
