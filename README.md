@@ -38,18 +38,17 @@ Presentation must satisfy the following
 3. It must be hosted on github or Rpubs
 4. It must contained some embedded R code that gets run when slidifying the document
 
-# Application - Puerto Ricans in USA
+# Application 
 
-Puerto Ricans who were born in Puerto Rico are American citizens as if they were born in the states. At 10% of the Latino population in the United States, Puerto Ricans are the second-largest Latino group nationwide, after Mexican-Americans, and are 1.5% of the entire population of the United States.
-Although the 2010 Census counted the number of Puerto Ricans living in the United States at 4.6 million, estimates in 2012 show the Puerto Rican population to be over 5 million.
+This repository has the ui.R and server.R files for the first part of the Developing Data Products Course Project. The peer assessed assignment has two parts. First, we need to create a Shiny application and deploy it on Rstudio's servers. Second, we should use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about the application.
+
 
 The repository consists of three final files:
 * ui.R
 * server.R
 * README.md
 
-Data File: 
-* puertoricansinusa.csv
+
 
 The ui.R and server.R are the code for the shiny application: https://ahmetozsari.shinyapps.io/dataprodshinyapp
 
